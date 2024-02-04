@@ -5,8 +5,6 @@ Welcome to the `ft_printf` project, a custom implementation of the `printf` func
 ## Key Features
 
 - Support for format specifiers like `%d`, `%s`, `%c`, `%x`, `%f`, and more.
-- Precise control over formatting options, such as field width and precision.
-- Handling of flags like `-`, `+`, `0`, and space.
 - Capability to print custom data types and user-defined structures.
 - Highly extensible, allowing for easy addition of new format specifiers.
 
